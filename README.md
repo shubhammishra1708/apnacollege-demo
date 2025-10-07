@@ -1,2 +1,2 @@
 # apnacollege-demo
-this is my first group repository
+this is my first git repository
